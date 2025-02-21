@@ -1,0 +1,14 @@
+{
+    "hits": {
+        "start": 0,
+        "found": 0,
+        "hit": []
+    },
+    "totalPages": 1,
+    "totalElements": 0,
+    "size": 0,
+    "number": 0,
+    "numberOfElements": 0,
+    "first": true,
+    "last": true
+}

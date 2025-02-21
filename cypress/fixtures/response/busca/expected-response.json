@@ -1,0 +1,200 @@
+{
+    "hits": {
+        "start": 0,
+        "found": 1,
+        "hit": [
+            {
+                "fields": {
+                    "expired": false,
+                    "published": true,
+                    "priceForEndUser": 119990.0,
+                    "national": true,
+                    "retail": true,
+                    "remainingDaysToExpiration": 13,
+                    "id": "540218",
+                    "offer_id": "540218",
+                    "brand": "fiat",
+                    "campaign": "",
+                    "category": "PESSOA FÍSICA",
+                    "features": "Oportunidade",
+                    "highlight": [
+                        "Freio de estacionamento eletrônico"
+                    ],
+                    "engine": "T200",
+                    "gear": "AUTOMÁTICO",
+                    "fuel": "Flex",
+                    "city_list": [],
+                    "country_list": [
+                        "BR"
+                    ],
+                    "regional_list": [],
+                    "state_list": [],
+                    "blacklist_city_list": [],
+                    "blacklist_country_list": [],
+                    "blacklist_regional_list": [],
+                    "blacklist_state_list": [],
+                    "model_name": "FIAT FASTBACK",
+                    "model_code": "376",
+                    "version_name": "TURBO 200 AT FLEX",
+                    "version_code": "ATD",
+                    "model_year": 2025,
+                    "mvs": "376ATD0",
+                    "color_code": "806",
+                    "color_name": "PRETO VULCANO",
+                    "price_full": 119990.0,
+                    "price_type": "Payment4",
+                    "start_date": "2025-02-06T00:00:00Z",
+                    "end_date": "2025-03-06T23:59:59Z",
+                    "doors": "5",
+                    "released": "true",
+                    "removed": "false",
+                    "released_on": "2025-02-13T17:31:53Z",
+                    "disclaimer": "<p>Condição válida para o veículo FASTBACK Turbo 200 ano/modelo [24/25] na cor PRETO sem opcionais, a partir de&nbsp;R$ 119.990.&nbsp;&nbsp;</p><p>Válido até 06/03/2025 ou enquanto durar o estoque de 50 unidades, prevalecendo o que ocorrer primeiro. O financiamento deverá ser realizado na modalidade Crédito Direto ao Consumidor – CDC, Pessoa Física, com 30 dias de carência para pagamento da 1ª parcela e será acrescido o valor das tarifas, custos e impostos (I.O.F.). Todas as propostas estarão sujeitas a aprovação de crédito pela Fiat Financiamentos. Consulte as condições gerais, tarifa, taxa de juros, encargos e o Custo Efetivo Total (CET) do financiamento antes da contratação em qualquer uma das concessionárias participantes. Todas as ações divulgadas acima não contemplam veículos adquiridos por meio de modalidades de vendas diretas, incluindo, mas sem se limitar, produtor rural, PcD, frota, taxista, locadoras, leilões e seguradoras. Oferta não cumulativa como outras ofertas vigentes da FCA ou da Rede de Concessionárias Fiat. Consulte condições e preços praticados pela sua região no site da FIAT https://ofertas.fiat.com.br/ e/ou uma concessionária FIAT participante em sua região. Para mais informações, entre em contato com a central de relacionamento: 0800 707 1000. Imagens meramente ilustrativas.</p>",
+                    "title": "FASTBACK TURBO 200 AT FLEX T200",
+                    "dealer_list": [],
+                    "last_modified": "2025-02-13T17:31:53Z",
+                    "created_at": "2025-02-11T15:59:20Z",
+                    "features_list": [
+                        "Oportunidade"
+                    ],
+                    "created_by_name": "Monique Figueira de Freitas Oliveira",
+                    "updated_by_name": "Monique Figueira de Freitas Oliveira",
+                    "financing_plan_next": false,
+                    "giro_fiat": false,
+                    "generate_voucher": false,
+                    "restricted": false,
+                    "disclaimer_manually_edited": true,
+                    "page_order": 1,
+                    "manufacture_year": 2024,
+                    "offer_type": "fca",
+                    "sold": false,
+                    "chassis": "",
+                    "super_offer": false,
+                    "installment_final_percentage": 0.0,
+                    "model_short_name": "FASTBACK",
+                    "series_code": "0",
+                    "gear_code": "AT7",
+                    "full_description": "FASTBACK TURBO 200 FLEX AT 2025",
+                    "archived": false,
+                    "stamp_path": "https://www.fiat.com.br//content/dam/fiat/lider-absoluta/selo-vai-de-fiat.png",
+                    "create_reservations": false,
+                    "car_delivery": false,
+                    "financing_flow": false,
+                    "market": "pt-BR",
+                    "show_hybrid_image": true,
+                    "model_category": "PASSEIO",
+                    "similar_model_category": "PICAPE",
+                    "custom_engine": "MOTOR T200",
+                    "custom_gear": "CÂMBIO AUTOMÁTICO",
+                    "price_diff": 0.0
+                }
+            }
+        ]
+    },
+    "facets": {
+        "category": {
+            "buckets": [
+                {
+                    "value": "PESSOA FÍSICA",
+                    "count": 1
+                }
+            ]
+        },
+        "engine": {
+            "buckets": [
+                {
+                    "value": "T200",
+                    "count": 1
+                }
+            ]
+        },
+        "gear": {
+            "buckets": [
+                {
+                    "value": "AUTOMÁTICO",
+                    "count": 1
+                }
+            ]
+        },
+        "highlight": {
+            "buckets": [
+                {
+                    "value": "FREIO DE ESTACIONAMENTO ELETRÔNICO",
+                    "count": 1
+                }
+            ]
+        },
+        "dealer_group": {
+            "buckets": []
+        },
+        "regional_list": {
+            "buckets": []
+        },
+        "state_list": {
+            "buckets": []
+        },
+        "city_list": {
+            "buckets": []
+        },
+        "model_category": {
+            "buckets": [
+                {
+                    "value": "PASSEIO",
+                    "count": 1
+                }
+            ]
+        },
+        "model_name": {
+            "buckets": [
+                {
+                    "value": "FIAT FASTBACK",
+                    "count": 1
+                }
+            ]
+        },
+        "full_description": {
+            "buckets": [
+                {
+                    "value": "FASTBACK TURBO 200 FLEX AT 2025",
+                    "count": 1
+                }
+            ]
+        },
+        "custom_engine": {
+            "buckets": [
+                {
+                    "value": "MOTOR T200",
+                    "count": 1
+                }
+            ]
+        },
+        "custom_gear": {
+            "buckets": [
+                {
+                    "value": "CÂMBIO AUTOMÁTICO",
+                    "count": 1
+                }
+            ]
+        }
+    },
+    "stats": {
+        "price_full": {
+            "min": 119990.0,
+            "max": 119990.0,
+            "count": 1
+        },
+        "chassi": 0,
+        "price_for_end_user": {
+            "min": 119990.0,
+            "max": 119990.0,
+            "count": 1
+        }
+    },
+    "totalPages": 1,
+    "totalElements": 1,
+    "size": 10000,
+    "number": 0,
+    "numberOfElements": 1,
+    "first": true,
+    "last": true
+}
